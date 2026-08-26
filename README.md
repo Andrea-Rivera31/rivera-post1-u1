@@ -7,7 +7,7 @@ Repositorio del laboratorio de la Unidad 1 de Programación Web. Contiene dos pa
 
 Se configuró el entorno de desarrollo web con VS Code (extensiones Live Server, Prettier, GitLens y ESLint), Git y GitHub. Se construyó una página HTML básica ("Fundamentos de la Web") con estilos CSS y un script JS, la cual fue inspeccionada con Chrome DevTools: se recorrió el árbol del DOM en el panel *Elements*, se verificaron los estilos aplicados al `header`, y se confirmaron en la *Console* los mensajes registrados por `main.js` (carga de la página, título del documento y cantidad de secciones encontradas).
 
-Ver `parte-1-entorno/`.
+Ver [parte-1-entorno/](./parte-1-entorno/).
 
 ## Parte 2 — Análisis de peticiones HTTP
 
@@ -18,7 +18,7 @@ Ver `parte-1-entorno/`.
 | 3 | GET JSON (fallido) | /posts/999 | 404 Not Found |
 | 4 | POST JSON | /posts | 201 Created |
 
-Ver `parte-2-analisis-http/analisis/`.
+Ver [parte-2-analisis-http/analisis/](./parte-2-analisis-http/analisis/).
 
 ## Herramientas utilizadas
 - VS Code, Git, GitHub
